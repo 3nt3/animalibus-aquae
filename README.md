@@ -1,0 +1,31 @@
+# animalibus aquae LaTeX class
+
+## example
+![](example.png)
+
+```latex
+\documentclass{animaq}
+\usepackage[ngerman]{babel}
+
+\org{Animalibus Aquae}
+
+% date, defaults to today
+% \date{ein tag}
+
+% place, defaults to haan
+% \place{Im Wasser}
+
+\begin{document}
+% the title and date
+\maketitle
+
+% this makes it be in the center lul
+\begin{content}
+	\centering
+	Ahhhhhh, das Schaf
+\end{content}
+
+% this adds --- before the name and makes it flush right
+\person{Deine Mom}
+\end{document}
+```
