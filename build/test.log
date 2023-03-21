@@ -1,0 +1,213 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.15)  21 MAR 2023 14:30
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**test.tex
+(./test.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-10> (./animaq.cls
+Document Class: animaq 2023/03/21 v1.0 Animalibus Aquae class
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+) (/usr/share/texmf-dist/tex/latex/adforn/adforn.sty
+Package: adforn 2019/10/13 v1.1b adforn CFR
+ (/usr/share/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+ (/usr/share/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+ (/usr/share/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+LaTeX Font Info:    Trying to load font information for U+OrnementsADF on input line 4.
+ (/usr/share/texmf-dist/tex/latex/adforn/uornementsadf.fd)) (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texmf-dist/tex/latex/ebgaramond/ebgaramond.sty
+Package: ebgaramond 2020/04/12 (Bob Tennent and autoinst) Style file for EB Garamond fonts.
+ (/usr/share/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/share/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 179.
+LaTeX Info: Redefining \textsw on input line 187.
+) (/usr/share/texmf-dist/tex/latex/microtype/letterspace.sty
+Package: letterspace 2022/03/14 v3.0d Robust letterspacing (RS)
+LaTeX Info: Redefining \lsstyle on input line 340.
+LaTeX Info: Redefining \lslig on input line 341.
+LaTeX Info: Redefining \textls on input line 369.
+\MT@outer@kern=\dimen147
+)) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count197
+\U@D=\dimen148
+\l@unhyphenated=\language87
+ (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count198
+ (/usr/share/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthography)
+ (/usr/share/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthography)
+Package babel Info: Making " an active character on input line 122.
+)))
+LaTeX Font Info:    Trying to load font information for OT1+EBGaramond-OsF on input line 12.
+ (/usr/share/texmf-dist/tex/latex/ebgaramond/OT1EBGaramond-OsF.fd
+File: OT1EBGaramond-OsF.fd 2019/10/22 (autoinst) Font definitions for OT1/EBGaramond-OsF.
+)
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' in size <10.95> not available
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 12.
+ (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count199
+\l__pdf_internal_box=\box50
+) (build/test.aux)
+\openout1 = `test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a6paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(63.16576pt, 294.76926pt, 63.16577pt)
+* v-part:(T,H,B)=(35.85083pt, 209.12683pt, 53.77628pt)
+* \paperwidth=421.10078pt
+* \paperheight=298.75394pt
+* \textwidth=294.76926pt
+* \textheight=209.12683pt
+* \oddsidemargin=-9.10423pt
+* \evensidemargin=-9.10423pt
+* \topmargin=-73.41916pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@mv@tabular=\count266
+\c@mv@boldtabular=\count267
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' in size <14.4> not available
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/n' will be
+(Font)              scaled to size 14.4pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/sc' in size <14.4> not available
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/sc' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/sc' will be
+(Font)              scaled to size 14.4pt on input line 14.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/it' tried instead on input line 14.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/it' will be
+(Font)              scaled to size 10.95pt on input line 14.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (build/test.aux) ) 
+Here is how much of TeX's memory you used:
+ 3365 strings out of 478238
+ 60619 string characters out of 5850455
+ 357786 words of memory out of 5000000
+ 21588 multiletter control sequences out of 15000+600000
+ 474574 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,5n,76p,211b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fc2mbn.enc}{/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_tsrvmb.enc}{/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_egoty6.enc}{/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb></usr/share/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb>
+Output written on build/test.pdf (1 page, 189964 bytes).
+PDF statistics:
+ 30 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
